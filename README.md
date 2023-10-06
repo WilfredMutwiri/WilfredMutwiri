@@ -1,14 +1,8 @@
 <img src="https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface-improvement-illustration_277904-4428.jpg?w=2000">
-
 <h1 align="center">Hi 👋, I'm Wilfred Mutwiri</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/2c/21/0a/2c210a1bc8f9826b4e2f22d3a97bbeb1.jpg">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilfredmutwiri&label=Profile%20views&color=0e75b6&style=flat" alt="wilfredmutwiri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilfredmutwiri" alt="wilfredmutwiri" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/wilfred mutwiri" target="blank"><img src="https://img.shields.io/twitter/follow/wilfred mutwiri?logo=twitter&style=for-the-badge" alt="wilfred mutwiri" /></a> </p>
 
 - 🌱 I’m currently learning **Vuejs**
