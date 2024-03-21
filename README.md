@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/564x/a7/58/49/a758499316370666df04791f12cb4f3f.jpg"/>
 <h1 align="center">Hi 👋, I'm WILFRED MUTWIRI</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
