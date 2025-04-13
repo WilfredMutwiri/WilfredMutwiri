@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@wilfredmutwiri8" target="blank"><img src="https://img.shields.io/twitter/follow/@wilfredmutwiri8?logo=twitter&style=for-the-badge" alt="@wilfredmutwiri8" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Django framework**
 
-- 💬 Ask me about **React, MongoDB,Express,Node.js,Tailwindcss, Javascript**
+- 💬 Ask me about **React, MongoDB,Express,Node.js,React-Native, Django**
 
 - 📫 How to reach me **wilfredmutwiri20@gmail.com**
 
